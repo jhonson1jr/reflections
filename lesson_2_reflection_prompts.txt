@@ -1,10 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 O que acontece quando você inicializa um repositório? Por que você precisa fazer isso?
+	É criado um arquivo oculto do git para controle dos commits. É necessário para o gerenciamento dos arquivos pelo Git.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 Como a área de preparação é diferente do diretório de trabalho e do repositório?
 Qual o valor que você acha que ele oferece?
+	Na area de preparação estão os arquivos com alteração em andamento, enquanto que no diretório de trabalho e no repositório estão os arquivos com edições salvas.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
