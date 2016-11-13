@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+(Como a visualização de uma diferença entre duas versões de um arquivo ajudou a ver o bug que
+foi introduzido?)
+
+    Visualizando onde houveram alterações, fica mais fácil localizar a(s) falha(s) caso exista(m). 8/11/16 - 21:57
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+(Como poderia ter acesso fácil a toda a história de um arquivo, torná-lo mais
+Programador eficiente a longo prazo?)
+
+    Facilita o acompanhamento ou visualização do progresso do desenvolvimento do projeto, até mesmo a detecção de falhas caso existam - 8/11/16 - 22h
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?(O que você acha que são os prós e contras de escolher manualmente quando criar um
+Commit, como você faz no Git, vs tendo versões salvas automaticamente, como o Google
+Docs faz?)
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+(Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar múltiplas
+Arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?)
+
+    Para um melhor entendimento do contexto das alterações.
+
+How can you use the commands git log and git diff to view the history of files?
+(Como você pode usar os comandos git log e git diff para ver o histórico dos arquivos?)
+
+    Através do git log e git diff comparando as alterações de acordo com os IDs dos commits
+
+How might using version control make you more confident to make changes that
+could break something?
+(Como usar o controle de versão pode torná-lo mais confiante para fazer alterações que
+Poderia quebrar algo?)
+
+    Com o controle de versão. Se danificar a estrutura, é possível restaurar para um ponto anterior às edições destrutivas e efetuar os devidos reajustes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+(Agora que você tem seu espaço de trabalho configurado, o que você quer tentar usar o Git?)
+    Para melhorar minhas tecnicas de desenvolvimento de sistemas.
