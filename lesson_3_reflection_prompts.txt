@@ -1,0 +1,27 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Quando você gostaria de usar um repositório remoto em vez de manter todo o seu trabalho local?
+    
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Por que você pode querer sempre puxar as alterações manualmente, em vez de manter o Git automaticamente atualizado com seu repositório 
+
+remoto?
+    
+
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+Descreva as diferenças entre garfos, clones e ramos. Quando você usaria um em vez de outro?
+    
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Qual é a vantagem de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+    
+
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil, eo que seria mais difícil?
+    
+
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+Quando você gostaria de fazer alterações em um ramo separado ao invés de diretamente no mestre? Quais são os benefícios de cada 
+
+abordagem?
+	   
